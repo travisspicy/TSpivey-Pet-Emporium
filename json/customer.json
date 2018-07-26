@@ -1,0 +1,147 @@
+[
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b3000127"
+		},
+		"firstName": "Mendel",
+		"lastName": "Flintoft",
+		"customerId": "C-G5a-7eukq-LNq3",
+		"joinDate": "8/1/2016",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b300003c",
+			"$oid": "5b59d931fc13ae01b300003d",
+			"$oid": "5b59d931fc13ae01b300003e",
+			"$oid": "5b59d931fc13ae01b300005a"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b3000128"
+		},
+		"firstName": "Tabbatha",
+		"lastName": "Mullen",
+		"customerId": "C-u7a-800Kp-z8Nz",
+		"joinDate": "11/5/2016",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b300003f",
+			"$oid": "5b59d931fc13ae01b3000040",
+			"$oid": "5b59d931fc13ae01b3000041",
+			"$oid": "5b59d931fc13ae01b300005b"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b3000129"
+		},
+		"firstName": "Brand",
+		"lastName": "Doreward",
+		"customerId": "C-ffF-wdjKp-eeUH",
+		"joinDate": "5/20/2017",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b3000042",
+			"$oid": "5b59d931fc13ae01b3000043",
+			"$oid": "5b59d931fc13ae01b3000044",
+			"$oid": "5b59d931fc13ae01b300005c"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b300012a"
+		},
+		"firstName": "Devlin",
+		"lastName": "Eatherton",
+		"customerId": "C-ZsQ-3rjCK-wDBX",
+		"joinDate": "1/5/2017",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b3000045",
+			"$oid": "5b59d931fc13ae01b3000046",
+			"$oid": "5b59d931fc13ae01b3000047",
+			"$oid": "5b59d931fc13ae01b300005d"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b300012b"
+		},
+		"firstName": "Cly",
+		"lastName": "Eakly",
+		"customerId": "C-4SP-TNhqn-rTp9",
+		"joinDate": "8/1/2016",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b3000048",
+			"$oid": "5b59d931fc13ae01b3000049",
+			"$oid": "5b59d931fc13ae01b300004a",
+			"$oid": "5b59d931fc13ae01b300005e"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b300012c"
+		},
+		"firstName": "Elle",
+		"lastName": "Varney",
+		"customerId": "C-4WH-eATaw-DaBb",
+		"joinDate": "6/15/2017",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b300004b",
+			"$oid": "5b59d931fc13ae01b300004c",
+			"$oid": "5b59d931fc13ae01b300004d"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b300012d"
+		},
+		"firstName": "Mace",
+		"lastName": "Fearney",
+		"customerId": "C-tAW-FYEaA-dsUh",
+		"joinDate": "9/19/2016",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b300004e",
+			"$oid": "5b59d931fc13ae01b300004f",
+			"$oid": "5b59d931fc13ae01b3000050"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b300012e"
+		},
+		"firstName": "Teodorico",
+		"lastName": "Hearfield",
+		"customerId": "C-f9h-f5SH2-qN0C",
+		"joinDate": "1/27/2017",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b3000051",
+			"$oid": "5b59d931fc13ae01b3000052",
+			"$oid": "5b59d931fc13ae01b3000053"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b300012f"
+		},
+		"firstName": "Jeffie",
+		"lastName": "Fannin",
+		"customerId": "C-XHr-bRISn-U1oA",
+		"joinDate": "1/3/2017",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b3000054",
+			"$oid": "5b59d931fc13ae01b3000055",
+			"$oid": "5b59d931fc13ae01b3000056"
+		}
+	},
+	{
+		"id": {
+			"$oid": "5b59e6fdfc13ae01b3000130"
+		},
+		"firstName": "Brigg",
+		"lastName": "Iacovini",
+		"customerId": "C-z1u-HzzS8-0iiO",
+		"joinDate": "6/1/2017",
+		"transactionHistory": {
+			"$oid": "5b59d931fc13ae01b3000057",
+			"$oid": "5b59d931fc13ae01b3000058",
+			"$oid": "5b59d931fc13ae01b3000059"
+		}
+	}
+]

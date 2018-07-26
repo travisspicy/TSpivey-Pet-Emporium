@@ -1,0 +1,102 @@
+[
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000000"
+		},
+		"firstName": "Desirae",
+		"lastName": "Dalliwater",
+		"employeeId": "q5f6-pWqhb-leb2",
+		"adminRole": true,
+		"salary": "01733"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000001"
+		},
+		"firstName": "Jilli",
+		"lastName": "Drabble",
+		"employeeId": "B3zR-k3vuY-7i1N",
+		"adminRole": false,
+		"salary": "49446"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000002"
+		},
+		"firstName": "Yvor",
+		"lastName": "Port",
+		"employeeId": "roB9-Lm6ug-M2Cg",
+		"adminRole": false,
+		"salary": "69679"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000003"
+		},
+		"firstName": "Gibby",
+		"lastName": "Karet",
+		"employeeId": "xgjK-9GDWg-S9By",
+		"adminRole": true,
+		"salary": "98215"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000004"
+		},
+		"firstName": "Faber",
+		"lastName": "Binfield",
+		"employeeId": "WuV1-zBNGk-Df6r",
+		"adminRole": true,
+		"salary": "14151"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000005"
+		},
+		"firstName": "Boothe",
+		"lastName": "Watterson",
+		"employeeId": "AB34-DpYuz-45Js",
+		"adminRole": true,
+		"salary": "41405"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000006"
+		},
+		"firstName": "Dulciana",
+		"lastName": "Pirdy",
+		"employeeId": "ZqWo-76LiR-5Yfk",
+		"adminRole": false,
+		"salary": "45934"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000007"
+		},
+		"firstName": "Deirdre",
+		"lastName": "Blanden",
+		"employeeId": "OJTF-tQzUQ-JU3y",
+		"adminRole": true,
+		"salary": "28255"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000008"
+		},
+		"firstName": "Maude",
+		"lastName": "Berardt",
+		"employeeId": "ctJM-gZxyx-3isj",
+		"adminRole": false,
+		"salary": "44574"
+	},
+	{
+		"id": {
+			"$oid": "5b59e4dcfc13ae637f000009"
+		},
+		"firstName": "Kerrin",
+		"lastName": "Dennerley",
+		"employeeId": "ljCB-spwSM-ZUOD",
+		"adminRole": true,
+		"salary": "72303"
+	}
+]

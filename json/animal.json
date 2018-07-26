@@ -1,0 +1,302 @@
+[
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000000"
+		},
+		"petType": "hamster",
+		"name": "Davidson's Sage",
+		"sex": "F",
+		"color": "#84e355",
+		"age": 6
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000001"
+		},
+		"petType": "spider",
+		"name": "Halecania Lichen",
+		"sex": "F",
+		"color": "#104da4",
+		"age": 2
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000002"
+		},
+		"petType": "fish",
+		"name": "Streamside Orthotrichum Moss",
+		"sex": "F",
+		"color": "#35b04e",
+		"age": 7
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000003"
+		},
+		"petType": "fish",
+		"name": "Cyrtandra",
+		"sex": "F",
+		"color": "#b1563b",
+		"age": 9
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000004"
+		},
+		"petType": "hamster",
+		"name": "Brunellia",
+		"sex": "M",
+		"color": "#6b55b3",
+		"age": 15
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000005"
+		},
+		"petType": "lizard",
+		"name": "Elliott's Croton",
+		"sex": "F",
+		"color": "#d0bd04",
+		"age": 13
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000006"
+		},
+		"petType": "cat",
+		"name": "Cody's Rockcress",
+		"sex": "M",
+		"color": "#c08c72",
+		"age": 9
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000007"
+		},
+		"petType": "dog",
+		"name": "Jamaican Sarsaparilla",
+		"sex": "F",
+		"color": "#763a62",
+		"age": 6
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000008"
+		},
+		"petType": "snake",
+		"name": "Dimple Lichen",
+		"sex": "F",
+		"color": "#ddda86",
+		"age": 1
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000009"
+		},
+		"petType": "cat",
+		"name": "Bryum Moss",
+		"sex": "M",
+		"color": "#bdb786",
+		"age": 14
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300000a"
+		},
+		"petType": "snake",
+		"name": "Lyall's Rockcress",
+		"sex": "F",
+		"color": "#9fedbb",
+		"age": 14
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300000b"
+		},
+		"petType": "dog",
+		"name": "Tapered Rosette Grass",
+		"sex": "M",
+		"color": "#16ddbe",
+		"age": 13
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300000c"
+		},
+		"petType": "cat",
+		"name": "Squirting Cucumber",
+		"sex": "M",
+		"color": "#3cc7ed",
+		"age": 14
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300000d"
+		},
+		"petType": "dog",
+		"name": "Muttongrass",
+		"sex": "M",
+		"color": "#79eb9c",
+		"age": 5
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300000e"
+		},
+		"petType": "snake",
+		"name": "Paskenta Grade Dwarf-flax",
+		"sex": "F",
+		"color": "#aea250",
+		"age": 14
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300000f"
+		},
+		"petType": "fish",
+		"name": "Calliergonella Moss",
+		"sex": "F",
+		"color": "#4cabcc",
+		"age": 9
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000010"
+		},
+		"petType": "hamster",
+		"name": "Turkish Wartycabbage",
+		"sex": "M",
+		"color": "#57a2f7",
+		"age": 1
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000011"
+		},
+		"petType": "crab",
+		"name": "Maryland Meadowbeauty",
+		"sex": "M",
+		"color": "#3d2ded",
+		"age": 7
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000012"
+		},
+		"petType": "dog",
+		"name": "Fan Columbine",
+		"sex": "M",
+		"color": "#241c9c",
+		"age": 12
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000013"
+		},
+		"petType": "spider",
+		"name": "Bastard Toadflax",
+		"sex": "M",
+		"color": "#4a0b1c",
+		"age": 1
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000014"
+		},
+		"petType": "lizard",
+		"name": "San Bernardino Spineflower",
+		"sex": "M",
+		"color": "#df540f",
+		"age": 12
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000015"
+		},
+		"petType": "lizard",
+		"name": "Birch",
+		"sex": "F",
+		"color": "#7d82da",
+		"age": 11
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000016"
+		},
+		"petType": "fish",
+		"name": "Porter's Wormwood",
+		"sex": "F",
+		"color": "#c197a0",
+		"age": 11
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000017"
+		},
+		"petType": "snake",
+		"name": "Fuller's Teasel",
+		"sex": "M",
+		"color": "#34d677",
+		"age": 3
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000018"
+		},
+		"petType": "bird",
+		"name": "Porpidia Lichen",
+		"sex": "F",
+		"color": "#3bec46",
+		"age": 5
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b3000019"
+		},
+		"petType": "crab",
+		"name": "Littleleaf Peashrub",
+		"sex": "M",
+		"color": "#4c1557",
+		"age": 10
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300001a"
+		},
+		"petType": "hamster",
+		"name": "King Bladderpod",
+		"sex": "F",
+		"color": "#5db6e8",
+		"age": 13
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300001b"
+		},
+		"petType": "hamster",
+		"name": "American Licorice",
+		"sex": "F",
+		"color": "#02f491",
+		"age": 13
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300001c"
+		},
+		"petType": "cat",
+		"name": "Sonoran Prairie Clover",
+		"sex": "F",
+		"color": "#e173dc",
+		"age": 12
+	},
+	{
+		"id": {
+			"$oid": "5b59d2d4fc13ae01b300001d"
+		},
+		"petType": "crab",
+		"name": "Tropical Cowpea",
+		"sex": "F",
+		"color": "#2cfe19",
+		"age": 2
+	}
+]
