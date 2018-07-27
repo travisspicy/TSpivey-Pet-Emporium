@@ -7,6 +7,12 @@
 		"lastName": "Flintoft",
 		"customerId": "C-G5a-7eukq-LNq3",
 		"joinDate": "8/1/2016",
+		"address": {
+			"street": "611 Havey Drive",
+			"city": "Tuscaloosa",
+			"state": "AL",
+			"zip": "18771-2103"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b300003c",
 			"$oid": "5b59d931fc13ae01b300003d",
@@ -22,6 +28,12 @@
 		"lastName": "Mullen",
 		"customerId": "C-u7a-800Kp-z8Nz",
 		"joinDate": "11/5/2016",
+		"address": {
+			"street": "219 Mendota Center",
+			"city": "Pompano Beach",
+			"state": "FL",
+			"zip": "91561-8118"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b300003f",
 			"$oid": "5b59d931fc13ae01b3000040",
@@ -37,6 +49,12 @@
 		"lastName": "Doreward",
 		"customerId": "C-ffF-wdjKp-eeUH",
 		"joinDate": "5/20/2017",
+		"address": {
+			"street": "394 Pleasure Pass",
+			"city": "Troy",
+			"state": "MI",
+			"zip": "24265-8332"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b3000042",
 			"$oid": "5b59d931fc13ae01b3000043",
@@ -52,6 +70,12 @@
 		"lastName": "Eatherton",
 		"customerId": "C-ZsQ-3rjCK-wDBX",
 		"joinDate": "1/5/2017",
+		"address": {
+			"street": "41417 Anthes Street",
+			"city": "Springfield",
+			"state": "IL",
+			"zip": "23537-0244"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b3000045",
 			"$oid": "5b59d931fc13ae01b3000046",
@@ -67,6 +91,12 @@
 		"lastName": "Eakly",
 		"customerId": "C-4SP-TNhqn-rTp9",
 		"joinDate": "8/1/2016",
+		"address": {
+			"street": "95677 Carioca Road",
+			"city": "Kissimmee",
+			"state": "FL",
+			"zip": "98047-5700"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b3000048",
 			"$oid": "5b59d931fc13ae01b3000049",
@@ -82,6 +112,12 @@
 		"lastName": "Varney",
 		"customerId": "C-4WH-eATaw-DaBb",
 		"joinDate": "6/15/2017",
+		"address": {
+			"street": "47437 Bayside Place",
+			"city": "Beaverton",
+			"state": "OR",
+			"zip": "50008-9503"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b300004b",
 			"$oid": "5b59d931fc13ae01b300004c",
@@ -96,6 +132,12 @@
 		"lastName": "Fearney",
 		"customerId": "C-tAW-FYEaA-dsUh",
 		"joinDate": "9/19/2016",
+		"address": {
+			"street": "98061 Main Plaza",
+			"city": "Charleston",
+			"state": "WV",
+			"zip": "15007-3319"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b300004e",
 			"$oid": "5b59d931fc13ae01b300004f",
@@ -110,6 +152,12 @@
 		"lastName": "Hearfield",
 		"customerId": "C-f9h-f5SH2-qN0C",
 		"joinDate": "1/27/2017",
+		"address": {
+			"street": "52 Leroy Way",
+			"city": "Lees Summit",
+			"state": "MO",
+			"zip": "09139-5208"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b3000051",
 			"$oid": "5b59d931fc13ae01b3000052",
@@ -124,6 +172,12 @@
 		"lastName": "Fannin",
 		"customerId": "C-XHr-bRISn-U1oA",
 		"joinDate": "1/3/2017",
+		"address": {
+			"street": "8 Harbort Pass",
+			"city": "Charlotte",
+			"state": "NC",
+			"zip": "96265-8013"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b3000054",
 			"$oid": "5b59d931fc13ae01b3000055",
@@ -138,6 +192,12 @@
 		"lastName": "Iacovini",
 		"customerId": "C-z1u-HzzS8-0iiO",
 		"joinDate": "6/1/2017",
+		"address": {
+			"street": "5 Corry Court",
+			"city": "Houston",
+			"state": "TX",
+			"zip": "86574-4790"
+		},
 		"transactionHistory": {
 			"$oid": "5b59d931fc13ae01b3000057",
 			"$oid": "5b59d931fc13ae01b3000058",

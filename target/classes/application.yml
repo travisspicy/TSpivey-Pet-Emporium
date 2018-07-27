@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: kittykat
+      port: 27017

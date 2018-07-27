@@ -13,13 +13,13 @@ RUN mongod --fork --logpath /var/log/mongodb.log --dbpath /data/db2 --smallfiles
 	&& mongoimport --jsonArray --db kittycat --collection customers --drop --file /data/db2/json/customer.json \
 	&& mongoimport --jsonArray --db kittycat --collection employees --drop --file /data/db2/json/employee.json \
 	&& mongoimport --jsonArray --db kittycat --collection transactions --drop --file /data/db2/json/transaction.json \
-    && mongod --dbpath /data/db2 --shutdown \
-    && chown -R mongodb /data/db2
+	&& mongod --dbpath /data/db2 --shutdown \
+	&& chown -R mongodb /data/db2
 
 # Make the new dir a VOLUME
 VOLUME /data/db2
 
 # Expose the default MongoDB Port
-EXPOSE 27018
+EXPOSE 27017
 
 CMD ["mongod", "--config", "/etc/mongodb.conf", "--smallfiles"]

@@ -6,7 +6,7 @@
 		"firstName": "Desirae",
 		"lastName": "Dalliwater",
 		"employeeId": "q5f6-pWqhb-leb2",
-		"adminRole": true,
+		"adminRole": "ADMIN",
 		"salary": "01733"
 	},
 	{
@@ -16,7 +16,7 @@
 		"firstName": "Jilli",
 		"lastName": "Drabble",
 		"employeeId": "B3zR-k3vuY-7i1N",
-		"adminRole": false,
+		"adminRole": "NONADMIN",
 		"salary": "49446"
 	},
 	{
@@ -26,7 +26,7 @@
 		"firstName": "Yvor",
 		"lastName": "Port",
 		"employeeId": "roB9-Lm6ug-M2Cg",
-		"adminRole": false,
+		"adminRole": "NONADMIN",
 		"salary": "69679"
 	},
 	{
@@ -36,7 +36,7 @@
 		"firstName": "Gibby",
 		"lastName": "Karet",
 		"employeeId": "xgjK-9GDWg-S9By",
-		"adminRole": true,
+		"adminRole": "ADMIN",
 		"salary": "98215"
 	},
 	{
@@ -46,7 +46,7 @@
 		"firstName": "Faber",
 		"lastName": "Binfield",
 		"employeeId": "WuV1-zBNGk-Df6r",
-		"adminRole": true,
+		"adminRole": "ADMIN",
 		"salary": "14151"
 	},
 	{
@@ -56,7 +56,7 @@
 		"firstName": "Boothe",
 		"lastName": "Watterson",
 		"employeeId": "AB34-DpYuz-45Js",
-		"adminRole": true,
+		"adminRole": "ADMIN",
 		"salary": "41405"
 	},
 	{
@@ -66,7 +66,7 @@
 		"firstName": "Dulciana",
 		"lastName": "Pirdy",
 		"employeeId": "ZqWo-76LiR-5Yfk",
-		"adminRole": false,
+		"adminRole": "NONADMIN",
 		"salary": "45934"
 	},
 	{
@@ -76,7 +76,7 @@
 		"firstName": "Deirdre",
 		"lastName": "Blanden",
 		"employeeId": "OJTF-tQzUQ-JU3y",
-		"adminRole": true,
+		"adminRole": "ADMIN",
 		"salary": "28255"
 	},
 	{
@@ -86,7 +86,7 @@
 		"firstName": "Maude",
 		"lastName": "Berardt",
 		"employeeId": "ctJM-gZxyx-3isj",
-		"adminRole": false,
+		"adminRole": "NONADMIN",
 		"salary": "44574"
 	},
 	{
@@ -96,7 +96,7 @@
 		"firstName": "Kerrin",
 		"lastName": "Dennerley",
 		"employeeId": "ljCB-spwSM-ZUOD",
-		"adminRole": true,
+		"adminRole": "ADMIN",
 		"salary": "72303"
 	}
 ]
