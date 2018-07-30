@@ -1,9 +1,12 @@
 package com.catalyte.petemorapi.models;
 
+import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
-@Document(collection = "employee")
+@Document(collection = "employees")
 public class Employee {
+
+    @Id
     private String _id;
     private String firstName;
     private String lastName;

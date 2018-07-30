@@ -1,6 +1,12 @@
 package com.catalyte.petemorapi.models;
 
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection= "animals")
 public class Animal {
+
+    @Id
     private String _id;
     private String petType;
     private String name;
